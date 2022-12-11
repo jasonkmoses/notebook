@@ -1,0 +1,6 @@
+p {
+  margin-top: 23px;
+}
+textarea:focus {
+  outline: none;
+}
